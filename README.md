@@ -1,7 +1,8 @@
-# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40"/>, I'm tushar<picture style="display:inline-block">
+# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40"/>, I'm tushar
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://media.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif">
   <source media="(prefers-color-scheme: light)" srcset="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif">
-  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="40">
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="" width="40">
 </picture>
 
 
