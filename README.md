@@ -39,8 +39,6 @@ I am a learner and tech enthusiasts, figuring out how am i able to watch friends
 
  
  ### Blogs
- 
- ![](Funny Pastel Hand-drawn Graph of Dog Breeds Instagram Post.png)
-
+ - [let vs var vs const in javascript](https://medium.com/@tushar85/var-vs-let-vs-const-in-javascript-34f65e1c19be)
  
 
