@@ -15,7 +15,7 @@ I am a learner and tech enthusiasts, figuring out how am i able to watch friends
 - 🌱 I’m currently learning expressjs
 - 👯 I’m looking to collaborate on web projects
 - 🤔 I’m looking for some project ideas
-- 💬 I write blogs
+- 💬 I have blogged in [Medium](https://medium.com/@tushar85)
 - 😄 Pronouns: he/him
 - ⚡ I like to write, be funny and sitcom
 - 👀 tushar8104@gamil.com
