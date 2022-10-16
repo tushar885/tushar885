@@ -1,4 +1,4 @@
-# Hi there, I'm tushar sharma
+# Hi there, I'm tushar 
 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40"/> -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://media.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif">
