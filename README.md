@@ -46,5 +46,6 @@ I am a learner and tech enthusiasts, figuring out how am i able to watch friends
  
  ### Blogs
  - [let vs var vs const in javascript](https://medium.com/@tushar85/var-vs-let-vs-const-in-javascript-34f65e1c19be)
+ - [Hoisting is Horrifyi…. NO!](https://medium.com/@tushar85/hoisting-is-horrifyi-no-6547965bf22c)
  
 
