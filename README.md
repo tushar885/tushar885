@@ -1,5 +1,5 @@
-# Hi there, I'm tushar 
-<!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40"/> -->
+# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40"/>, I'm tushar 
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://media.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif">
   <source media="(prefers-color-scheme: light)" srcset="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif">
