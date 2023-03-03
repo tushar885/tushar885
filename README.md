@@ -12,7 +12,7 @@
 I am a learner and tech enthusiasts, figuring out how am i able to watch friends on netflix! 
 
 ### me :
-- 🧑 I'm 17
+- 🧑 I'm 18
 - 🌱 I’m currently learning expressjs
 - 👯 I’m looking to collaborate on web projects
 - 🤔 I’m looking for some project ideas
