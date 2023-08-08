@@ -9,20 +9,21 @@
 
 ## aspiring Web Developer 🐥
 
-I am a learner and tech enthusiasts, figuring out how am i able to watch friends on netflix! 
+I am a learner and tech enthusiast, figuring out how I am able to watch Friends on Netflix! 
 
 ### me :
 - 🧑 I'm 18
-- 🌱 I’m currently learning expressjs
+- 🌱 I’m currently learning Reactjs
 - 👯 I’m looking to collaborate on web projects
 - 🤔 I’m looking for some project ideas
 - 💬 I have blogged in [Medium](https://medium.com/@tushar85)
 - 😄 Pronouns: he/him
-- ⚡ I like to write, be funny and sitcom
+- ⚡ I like to write, be funny, and sitcom
 - 👀 tushar8104@gamil.com
 
 ### Skills
 
+[<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"  width="55" />](https://react.dev/)
 [<img
   src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
   width="55"
@@ -42,7 +43,7 @@ I am a learner and tech enthusiasts, figuring out how am i able to watch friends
   src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"
   width="55"
 />](https://www.mongodb.com/)
-
+[<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="55"/>](https://tailwindcss.com/)
  
  ### Blogs
  - [let vs var vs const in javascript](https://medium.com/@tushar85/var-vs-let-vs-const-in-javascript-34f65e1c19be)
