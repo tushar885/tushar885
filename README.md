@@ -12,8 +12,8 @@
 I am a learner and tech enthusiast, figuring out how I am able to watch Friends on Netflix! 
 
 ### me :
-- 🧑 I'm 18
-- 🌱 I’m currently learning Reactjs
+- 🧑 I'm 20
+- 🌱 I’m currently learning Spring
 - 👯 I’m looking to collaborate on web projects
 - 🤔 I’m looking for some project ideas
 - 💬 I have blogged in [Medium](https://medium.com/@tushar85)
